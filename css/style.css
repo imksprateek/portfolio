@@ -155,6 +155,13 @@
  .skill_5 {
    width: auto;
    max-height: 600px;
+   padding-bottom: 0px;
+   margin-bottom: 0px;
+ }
+
+ .skill_6 {
+   width: auto;
+   max-height: 600px;
  }
 
  .btn {
